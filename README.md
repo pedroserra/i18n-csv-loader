@@ -5,10 +5,11 @@
 A webpack loader that loads CSV files into a module.
 
 Files like `example.strings.csv`
-\_key | en | pt  
-------------|-------------|-----------
-yes | Yes | Sim  
-no | No | Não  
+
+\_key       | en          | pt
+------------|-------------|----------
+yes         | Yes         | Sim
+no          | No          | Não
 hello world | Hello world | Olá mundo
 
 can be used like:

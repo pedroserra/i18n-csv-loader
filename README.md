@@ -69,7 +69,7 @@ you can set your options in webpack like
 * empty lines or lines with an empty key column are ignored
 * first line should contain the header which should contain
   - *_key* - indicates that this column will contain the key index used to select the string
-  - headers started by **_** will be ignores (useful if you want to have a descriptive column to indicate the context or indicate which tags will be supported for string replacement)
+  - headers started by **_** will be ignored (useful if you want to have a descriptive column to indicate the context or indicate which tags will be supported for string replacement)
   - any other headers will be considered as language identifiers
 
 

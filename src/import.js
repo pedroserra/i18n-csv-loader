@@ -35,7 +35,7 @@ async function runCommand() {
         const usage = commandLineUsage([
             {
                 header: 'Synopsis',
-                content: '$ npx i18n-csv-merge <options>',
+                content: '$ npx import-strings <options>',
             },
             {
                 header: 'Options',

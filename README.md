@@ -83,7 +83,7 @@ Because sometimes is useful to merge all the strings into a single file (to shar
     
     example:
     ```
-        npx export-strings --files `find --name *.strings.csv` -o allstrings.csv
+        npx export-strings --files `find -name *.strings.csv` -o allstrings.csv
     ```
     
 * _import-strings_

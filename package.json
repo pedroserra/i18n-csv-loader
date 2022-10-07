@@ -1,6 +1,6 @@
 {
     "name": "i18n-csv-loader",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A i18n webpack loader that loads csv files",
     "main": "./src/loader.js",
     "scripts": {
